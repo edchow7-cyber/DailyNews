@@ -19,3 +19,7 @@ Each section may contain up to five stories, but there is no quota. Prefer fewer
 ## Publishing
 
 `index.html` is always the latest edition. Dated editions are retained under `archive/`.
+
+When replacing `index.html` with a new edition, preserve the theme-color, favicon,
+Apple touch icon, and web-app manifest links in the document head so installed
+Home Screen shortcuts retain The Outpost branding.
